@@ -6,3 +6,5 @@ This was done using staging from 4.2 -> 5.2 and finally to Rails 6.
 
 Some issues in the Rails 5.2 app were not fixed until tested with rails 6
 due to some gem version incompatibilities.
+
+Changes were logged in separate commits (see commit comments in the log).
