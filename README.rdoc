@@ -1,28 +1,8 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository tracks changes while upgrading a Rails 4.x app to Rails 6.
 
-Things you may want to cover:
+This was done using staging from 4.2 -> 5.2 and finally to Rails 6.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Some issues in the Rails 5.2 app were not fixed until tested with rails 6
+due to some gem version incompatibilities.
